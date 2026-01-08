@@ -83,4 +83,4 @@ It does **not** provide financial advice or guarantee trading outcomes.
 ---
 
 ## ⭐ If you like this project
-Give it a ⭐ and feel free to fork or contribute!
+Give it a ⭐
